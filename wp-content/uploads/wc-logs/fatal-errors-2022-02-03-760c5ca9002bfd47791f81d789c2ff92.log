@@ -1,0 +1,106 @@
+2022-02-03T17:42:41+00:00 CRITICAL Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Aucune route correspondante à l’URL et à la méthode de requête n’a été trouvée. [rest_no_route] in C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php:350
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(386): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(422): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('products', 'GET', Array, Array)
+#3 C:\xampp\htdocs\wordpress\index.php(35): Automattic\WooCommerce\Client->get('products')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php à la ligne 350
+
+2022-02-03T17:42:53+00:00 CRITICAL Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Aucune route correspondante à l’URL et à la méthode de requête n’a été trouvée. [rest_no_route] in C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php:350
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(386): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(422): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('products', 'GET', Array, Array)
+#3 C:\xampp\htdocs\wordpress\index.php(35): Automattic\WooCommerce\Client->get('products')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php à la ligne 350
+
+2022-02-03T17:43:43+00:00 CRITICAL Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Aucune route correspondante à l’URL et à la méthode de requête n’a été trouvée. [rest_no_route] in C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php:350
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(386): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(422): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('products', 'GET', Array, Array)
+#3 C:\xampp\htdocs\wordpress\index.php(34): Automattic\WooCommerce\Client->get('products')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php à la ligne 350
+
+2022-02-03T17:43:59+00:00 CRITICAL Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: JSON ERROR: Syntax error in C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php:378
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(422): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#1 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('products', 'GET', Array, Array)
+#2 C:\xampp\htdocs\wordpress\index.php(34): Automattic\WooCommerce\Client->get('products')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php à la ligne 378
+
+2022-02-03T17:44:03+00:00 CRITICAL Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: JSON ERROR: Syntax error in C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php:378
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(422): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#1 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('products', 'GET', Array, Array)
+#2 C:\xampp\htdocs\wordpress\index.php(34): Automattic\WooCommerce\Client->get('products')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php à la ligne 378
+
+2022-02-03T17:46:05+00:00 CRITICAL Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Aucune route correspondante à l’URL et à la méthode de requête n’a été trouvée. [rest_no_route] in C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php:350
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(386): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(422): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('products', 'GET', Array, Array)
+#3 C:\xampp\htdocs\wordpress\index.php(34): Automattic\WooCommerce\Client->get('products')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php à la ligne 350
+
+2022-02-03T17:47:21+00:00 CRITICAL Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Aucune route correspondante à l’URL et à la méthode de requête n’a été trouvée. [rest_no_route] in C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php:350
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(386): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(422): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('products', 'GET', Array, Array)
+#3 C:\xampp\htdocs\wordpress\index.php(34): Automattic\WooCommerce\Client->get('products')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php à la ligne 350
+
+2022-02-03T17:48:44+00:00 CRITICAL Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Aucune route correspondante à l’URL et à la méthode de requête n’a été trouvée. [rest_no_route] in C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php:350
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(386): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(422): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('', 'GET', Array, Array)
+#3 C:\xampp\htdocs\wordpress\index.php(34): Automattic\WooCommerce\Client->get('')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php à la ligne 350
+
+2022-02-03T17:51:23+00:00 CRITICAL Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Aucune route correspondante à l’URL et à la méthode de requête n’a été trouvée. [rest_no_route] in C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php:350
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(386): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(422): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('', 'GET', Array, Array)
+#3 C:\xampp\htdocs\wordpress\index.php(34): Automattic\WooCommerce\Client->get('')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php à la ligne 350
+
+2022-02-03T17:51:36+00:00 CRITICAL Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Aucune route correspondante à l’URL et à la méthode de requête n’a été trouvée. [rest_no_route] in C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php:350
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(386): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(422): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('', 'GET', Array, Array)
+#3 C:\xampp\htdocs\wordpress\index.php(34): Automattic\WooCommerce\Client->get('')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php à la ligne 350
+
+2022-02-03T18:48:50+00:00 CRITICAL Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Aucune route correspondante à l’URL et à la méthode de requête n’a été trouvée. [rest_no_route] in C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php:350
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(386): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(422): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('products', 'GET', Array, Array)
+#3 C:\xampp\htdocs\wordpress\index.php(36): Automattic\WooCommerce\Client->get('products')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php à la ligne 350
+
+2022-02-03T18:48:57+00:00 CRITICAL Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Aucune route correspondante à l’URL et à la méthode de requête n’a été trouvée. [rest_no_route] in C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php:350
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(386): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php(422): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('products', 'GET', Array, Array)
+#3 C:\xampp\htdocs\wordpress\index.php(36): Automattic\WooCommerce\Client->get('products')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\vendor\automattic\woocommerce\src\WooCommerce\HttpClient\HttpClient.php à la ligne 350
+
